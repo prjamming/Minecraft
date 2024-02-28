@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "prjamming" && password === "0v3rth3t0p!") {
         alert("You have successfully logged in.");
-        window.location=”http://MyURLredirectRightPWD.html“;
+        window.location=”http://coordinate-file.html“;
     } else {
         loginErrorMsg.style.opacity = 1;
     }
